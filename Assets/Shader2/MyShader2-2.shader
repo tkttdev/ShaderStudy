@@ -1,4 +1,4 @@
-﻿Shader "Custom/MyShader2-2" {
+Shader "Custom/MyShader2-2" {
 	Properties {
 		_Color ("Diffuse Color", Color) = (1.0, 1.0, 1.0)
 	}
