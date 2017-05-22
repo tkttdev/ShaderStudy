@@ -1,4 +1,4 @@
-﻿Shader "Custom/Shader4-2-1" {
+﻿Shader "Custom/MyShader4-2-1" {
 	Properties {
 		_DiffuseColor("Diffuse Color", Color) = (1.0, 1.0, 1.0)
 		_Specular("Specular", Range(1.0, 50.0)) =15.0
