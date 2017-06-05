@@ -1,7 +1,4 @@
-﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
-// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
-
-Shader "Custom/MyShader6-7" {
+﻿Shader "Custom/MyShader6-7" {
 	Properties {
 		_Diffuse("Diffuse Color", Color) = (0.5, 0.5, 0.5, 1.0)
 		_Bump("Bump", 2D) = "white"{}
